@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uddiptojana10
-- 👀 I’m interested in web development and ethical hacking
+- 👀 I’m interested in web development and software development.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail me at : janauddipto@gmail.com
