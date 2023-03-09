@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uddipto Jana.
 - 👀 I’m interested in web development and software development.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C and web development.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail me at : janauddipto@gmail.com
 
