@@ -22,6 +22,7 @@ Hello! I am Uddipto Jana<br>I am a CS undergrad<br>I aspire to be a software dev
 ![](https://github-contributor-stats.vercel.app/api?username=uddiptojana10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uddiptojana10&icon=9&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=uddipto23&label=Profile%20Views&color=6&icon=1&pretty=true" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
