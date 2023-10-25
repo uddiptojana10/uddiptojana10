@@ -20,6 +20,7 @@ Hello! I am Uddipto Jana<br>I am a CS undergrad<br>I aspire to be a software dev
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uddiptojana10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![An image of @uddiptojana10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uddiptojana10)](https://holopin.io/@uddiptojana10)
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=uddipto23&label=Profile%20Views&color=6&icon=1&pretty=true" />
